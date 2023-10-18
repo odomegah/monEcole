@@ -44,4 +44,4 @@ Voir OdoDash sur github [OdoDash](https://github.com/odomegah/OdoDash)
 
 
 ## Odomegah
-:link: [odomegah](https:odomegah.com)
+:link: Visite [odomegah](https://odomegah.com)
